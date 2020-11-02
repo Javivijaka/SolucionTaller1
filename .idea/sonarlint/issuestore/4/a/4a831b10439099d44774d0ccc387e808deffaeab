@@ -1,0 +1,35 @@
+
+P
+java:S22090"5Change this instance-reference to a static reference.(ËôÒ¥ûÿÿÿÿ
+K
+java:S2209%"5Change this instance-reference to a static reference.(øğ´¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÍ·Âøÿÿÿÿ
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(°€àâ
+P
+java:S2209"5Change this instance-reference to a static reference.(ÅÍ·Âøÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(ìÀ¯ö
+7	java:S131""Add a default case to this switch.(°€àâ
+K
+java:S2209+"5Change this instance-reference to a static reference.(€…ĞÇ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(€…ĞÇ
+M
+java:S1135"2Complete the task associated to this TODO comment.(à™ï–şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„îã
+K
+java:S22095"5Change this instance-reference to a static reference.(€…ĞÇ
+V	java:S125"<This block of commented-out lines of code should be removed.(¿˜”©ıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(øğ´¡
+>
+java:S2440"(Remove this instantiation of "Mensajes".(ËÖÊ
+K
+java:S2209"5Change this instance-reference to a static reference.(„îã
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‹œ¶š
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(€…ĞÇ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S2209 "5Change this instance-reference to a static reference.(‹œ¶š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìÀ¯ö
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ËôÒ¥ûÿÿÿÿ

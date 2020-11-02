@@ -1,0 +1,10 @@
+
+;
+java:S2129%" Remove this "Double" constructor(Â‡Êðýÿÿÿÿ
+I
+java:S1874%".Remove this use of "Double"; it is deprecated.(Â‡Êðýÿÿÿÿ
+V
+java:S1854%";Remove this useless assignment to local variable "calculo".(Â‡Êðýÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(„ÀÃÞ
+h	java:S116"SRename this field "POR_FIJO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÀÃÞ
